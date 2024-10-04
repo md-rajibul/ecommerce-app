@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 89.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "review": 4.5,
+    "img": "https://example.com/images/headphones.jpg",
+    "availability": true
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "Latest model smartphone with a stunning display.",
+    "review": 4.8,
+    "img": "https://example.com/images/smartphone.jpg",
+    "availability": true
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 1299.99,
+    "description": "Powerful laptop with high-performance specs.",
+    "review": 4.7,
+    "img": "https://example.com/images/laptop.jpg",
+    "availability": false
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "description": "Stylish smartwatch with fitness tracking features.",
+    "review": 4.3,
+    "img": "https://example.com/images/smartwatch.jpg",
+    "availability": true
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "description": "Portable Bluetooth speaker with great sound quality.",
+    "review": 4.6,
+    "img": "https://example.com/images/speaker.jpg",
+    "availability": true
+  },
+  {
+    "id": 6,
+    "name": "4K Ultra HD TV",
+    "price": 799.99,
+    "description": "Enjoy stunning picture quality with our 4K Ultra HD TV.",
+    "review": 4.9,
+    "img": "https://example.com/images/tv.jpg",
+    "availability": false
+  },
+  {
+    "id": 7,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "description": "Ergonomic gaming mouse with customizable buttons.",
+    "review": 4.4,
+    "img": "https://example.com/images/mouse.jpg",
+    "availability": true
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "price": 299.99,
+    "description": "Compact action camera for capturing your adventures.",
+    "review": 4.5,
+    "img": "https://example.com/images/camera.jpg",
+    "availability": true
+  }
+]
