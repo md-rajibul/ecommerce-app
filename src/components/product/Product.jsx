@@ -23,7 +23,7 @@ export default function Product({product, handleAddToCart}) {
 
       <div className="card-actions justify-end">
         <button className="btn btn-primary" 
-        onClick={()=>handleAddToCart(id)}>Add to Cart</button>
+        onClick={()=>handleAddToCart(product)}>Add to Cart</button>
       </div>
     </div>
   </div>

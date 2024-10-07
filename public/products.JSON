@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Wireless Headphones",
+    "name": "Headphones",
     "price": 89.99,
     "description": "High-quality wireless headphones with noise cancellation.",
     "review": 4.5,
-    "img": "https://example.com/images/headphones.jpg",
+    "img" : "https://th.bing.com/th/id/OIP.qNGswysCT9dtyDF2RDz5ngHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7",
     "availability": true
   },
   {
@@ -14,7 +14,7 @@
     "price": 699.99,
     "description": "Latest model smartphone with a stunning display.",
     "review": 4.8,
-    "img": "https://example.com/images/smartphone.jpg",
+    "img": "https://th.bing.com/th/id/OIP.NVH0ZQ8KV7Wzv90sc_USJQHaMc?w=115&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7",
     "availability": true
   },
   {
@@ -23,7 +23,7 @@
     "price": 1299.99,
     "description": "Powerful laptop with high-performance specs.",
     "review": 4.7,
-    "img": "https://example.com/images/laptop.jpg",
+    "img": "https://th.bing.com/th/id/OIP.idBw32-YvsyfNUD-gDg1BwHaHa?rs=1&pid=ImgDetMain",
     "availability": false
   },
   {
@@ -32,7 +32,7 @@
     "price": 199.99,
     "description": "Stylish smartwatch with fitness tracking features.",
     "review": 4.3,
-    "img": "https://example.com/images/smartwatch.jpg",
+    "img": "https://th.bing.com/th?id=OIP.VdubFH_2YVwdUzZfBbLMqgAAAA&w=246&h=253&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
     "availability": true
   },
   {
@@ -41,7 +41,7 @@
     "price": 59.99,
     "description": "Portable Bluetooth speaker with great sound quality.",
     "review": 4.6,
-    "img": "https://example.com/images/speaker.jpg",
+    "img": "https://th.bing.com/th?id=OIP.j8QGpIxcFA-v1acL_jwZ-wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
     "availability": true
   },
   {
@@ -50,7 +50,7 @@
     "price": 799.99,
     "description": "Enjoy stunning picture quality with our 4K Ultra HD TV.",
     "review": 4.9,
-    "img": "https://example.com/images/tv.jpg",
+    "img": "https://www.bing.com/th?id=OIP.-RjbJIIINks8xu7Y2WG9SwHaFJ&w=146&h=102&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
     "availability": false
   },
   {
@@ -59,7 +59,7 @@
     "price": 49.99,
     "description": "Ergonomic gaming mouse with customizable buttons.",
     "review": 4.4,
-    "img": "https://example.com/images/mouse.jpg",
+    "img": "https://th.bing.com/th?id=OIP.V-hvkzF0wuuAnWytiYIx_wHaLc&w=201&h=310&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
     "availability": true
   },
   {
@@ -68,7 +68,7 @@
     "price": 299.99,
     "description": "Compact action camera for capturing your adventures.",
     "review": 4.5,
-    "img": "https://example.com/images/camera.jpg",
+    "img": "https://th.bing.com/th?id=OIP.pYLnEHlGYfxYk_BHDAc7-AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
     "availability": true
   }
 ]
